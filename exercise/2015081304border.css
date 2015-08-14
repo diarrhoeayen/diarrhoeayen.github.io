@@ -1,0 +1,13 @@
+.p2{
+	width: 300px;
+	padding:25px;
+	padding-left: 60px;
+	border-color: white;
+	border-width: 1px;
+	border-style: dashed;
+	border-radius: 15px;
+	background-color: #a7cece;
+	background-image:url(star.gif);
+	background-repeat: no-repeat;
+	margin: 20px;
+}
