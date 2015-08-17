@@ -1,0 +1,18 @@
+.dropdown li{
+	display: none;
+}
+
+.col1{
+	background: gray;
+	margin: 5px;
+}
+
+.col2{
+	background: gray;
+	margin: 5px;
+}
+
+.col3{
+	background: gray;
+	margin: 5px;
+}

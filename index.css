@@ -2,10 +2,10 @@
     float: left;
     display: block;
     background-color: #9A5927;
-    width: 200px;
+    width: 100px;
     text-align: center;
     line-height: 50px;
-    font-size: 11pt;
+    font-size: 9pt;
 }
 
 .block1 ul li a{
@@ -49,9 +49,21 @@
 	margin-top: 120px;
 }
 
+.block2 h1 {
+    background-color: gray;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+
+.block2 img {
+    background-color: black;
+    text-align: center;
+}
+
 .block2 h3 {
 	background-color: yellow;
-	width: 300px;
+	width: 280px;
 	text-align: right;
 }
 
