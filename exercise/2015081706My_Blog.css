@@ -1,5 +1,33 @@
-.dropdown li{
+ul li ul li{
 	display: none;
+}
+
+ul li:hover ul li{
+    display: block;
+}
+
+ul li:hover{
+    background-color: white;
+}
+
+ul li ul li:hover{
+    background-color: gray;
+}
+
+ul li ul li:hover{
+    color: yellow;
+}
+
+.navbar-nav{
+	z-index: 100;
+	background: white;
+	position: fixed;
+	margin: 0px;
+}
+
+video{
+	position: fixed;
+	z-index: -100;
 }
 
 .col1{
@@ -15,4 +43,8 @@
 .col3{
 	background: gray;
 	margin: 5px;
+}
+
+.table{
+	margin: 10px;
 }
